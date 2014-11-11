@@ -1,3 +1,4 @@
 final
 *.pyc
 .idea
+scratchpad/local_settings.py
